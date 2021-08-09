@@ -137,20 +137,20 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 770px;
+    min-height: 771px;
   }
 
   .u-section-1 .u-image-1 {
     width: 474px;
     height: 353px;
     margin-top: 20px;
-    margin-left: 55px;
+    margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-1 .u-group-1 {
     min-height: 383px;
-    margin-top: -118px;
+    margin-top: -117px;
     margin-left: auto;
   }
 
@@ -190,7 +190,6 @@
   .u-section-1 .u-image-1 {
     width: 280px;
     height: 251px;
-    margin-left: 0;
   }
 
   .u-section-1 .u-group-1 {
